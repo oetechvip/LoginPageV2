@@ -15,31 +15,31 @@
     "Device Id": "cc26938e6700bd9e",   // Bulanan
     "username": "Ifit Langsing",
     "password": "premium",
-    "expiry": "2026-01-30" // NO DATE NO EXPIRY UNLIMITED 
+    "expiry": "2026-01-30" // NO DATE NO EXPIRY UNLIMITED
   },
   {
     "Device Id": "35f9a2951628f818",
     "username": "Rury STB",
-    "password": "premium11",
+    "password": "premium",
     "expiry": "2026-12-30"
   },
   {
-    "Device Id": "PASTE-DEVICE-ID",
-    "username": "jkl",
-    "password": "104",
-    "expiry": "" // NO DATE NO EXPIRY UNLIMITED KEY 
+    "Device Id": "ffb4da8cc54c429a",
+    "username": "Vera",
+    "password": "premium",
+    "expiry": "2026-01-30" // NO DATE NO EXPIRY UNLIMITED KEY 
   },
   {
-    "Device Id": "PASTE-DEVICE-ID",
-    "username": "mno",
-    "password": "105",
-    "expiry": "2025-10-04"
+    "Device Id": "1c263f006d35d2fc",
+    "username": "Lili",
+    "password": "premium",
+    "expiry": "2026-02-06"
   },
   {
-    "Device Id": "",  // NO DEVICE ID, LOGIN NOT WORK 
-    "username": "abc",
-    "password": "101",
-    "expiry": "2026-09-29"
+    "Device Id": "2eab0e121181b4a5",  // NO DEVICE ID, LOGIN NOT WORK 
+    "username": "Nisya",
+    "password": "vip1",
+    "expiry": "2026-02-07"
   },
   {
     "Device Id": "PASTE-DEVICE-ID",
