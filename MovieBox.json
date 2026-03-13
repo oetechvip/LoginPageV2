@@ -13,9 +13,9 @@
   },
   {
     "Device Id": "cc26938e6700bd9e",   // Bulanan
-    "username": "Ifit Langsing",
-    "password": "premium",
-    "expiry": "2026-01-30" // NO DATE NO EXPIRY UNLIMITED
+    "username": "Ifit",
+    "password": "vip1",
+    "expiry": "2026-03-12" // NO DATE NO EXPIRY UNLIMITED
   },
   {
     "Device Id": "35f9a2951628f818",
@@ -26,14 +26,14 @@
   {
     "Device Id": "ffb4da8cc54c429a",
     "username": "Vera",
-    "password": "premium",
-    "expiry": "2026-01-30" // NO DATE NO EXPIRY UNLIMITED KEY 
+    "password": "vip1",
+    "expiry": "2026-04-13" // NO DATE NO EXPIRY UNLIMITED KEY 
   },
   {
     "Device Id": "1c263f006d35d2fc",
     "username": "Lili",
-    "password": "premium",
-    "expiry": "2026-03-07"
+    "password": "vip6",
+    "expiry": "2026-09-07"
   },
   {
     "Device Id": "2eab0e121181b4a5",  // NO DEVICE ID, LOGIN NOT WORK 
@@ -44,8 +44,8 @@
   {
     "Device Id": "11e5e7b73adc1da1",
     "username": "Aira",
-    "password": "vip1",
-    "expiry": "2026-02-20" // NO DATE NO EXPIRY UNLIMITED KEY 
+    "password": "vip6",
+    "expiry": "2026-08-22" // NO DATE NO EXPIRY UNLIMITED KEY 
   },
   {
     "Device Id": "44e5306cf06a8f91",
